@@ -4,7 +4,7 @@
 
 ```bash
   my name is Rohan Kumar. 
-  I'm interseted in 
+  I am interseted in 
   machine learnig
 ```
 ```bash
@@ -26,7 +26,7 @@
 ```
 ```bash
   my name is Rokmek 
-  I'm interseted in 
+  I am interseted in 
  web development
 ```
 ```bash
