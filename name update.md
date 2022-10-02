@@ -1,5 +1,5 @@
 ```bash
-  ADD YOUR NAME AND TECHNOLOGIES YOU ARE INTRESTED IN
+  ADD YOUR NAME AND TECHNOLOGIES YOU ARE INTERESTED IN
 ```
 
 ```bash
@@ -48,6 +48,10 @@
   machine learnig and web development
 ```
 
+```bash
+  my name is Shiwanshi. 
+  I am interested in WebDev, AI/ML.
+```
 ```bash
   my name is Vishal.
   I am interseted in
