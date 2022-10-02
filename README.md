@@ -1,7 +1,5 @@
 # Hacktober2022
 
-Website Link:- https://hacktoberfest.com/profile/
-
 # This project is perfect for your first pull request
 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.
 
@@ -15,3 +13,4 @@ Add your files (git add -A), commit (git commit -m "added myself") and push (git
 Create a pull request
 Star this repository
 
+Website Link:- https://hacktoberfest.com/profile/
