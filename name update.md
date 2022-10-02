@@ -37,3 +37,9 @@
   I am interseted in 
   machine learnig
 ```
+```bash
+  my name is Subrat. 
+  I am interseted in 
+  machine learnig and web development
+```
+
