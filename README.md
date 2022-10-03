@@ -1,4 +1,4 @@
-# Hacktober2022
+# HacktoberFest2022
 
 # This project is perfect for your first pull request
 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.
