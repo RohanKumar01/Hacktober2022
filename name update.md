@@ -65,4 +65,7 @@
 ```bash
    my name is  Soaham 
    I am interested in Web dev and cloud
+```bash
+   my name is  pavan kumar
+   I am interested in Web dev and ML
 ```
