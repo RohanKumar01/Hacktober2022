@@ -19,7 +19,7 @@
 
 Contributing for the first time? I got you 😀
 
-- `Fork` the repo. (a copy of this repo will be made on your account).
+- `Fork` the repo (a copy of this repo will be made on your account).
 
 
 
